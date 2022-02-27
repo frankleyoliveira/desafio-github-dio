@@ -20,9 +20,9 @@
 
 - Uma novidade para mim foi que podemos usar vários headers na mesma página, eu costumava usar apenas um no cabeçalho principal.
 
-  ## CSS3
+## CSS3
 
-  - Criado em 1996
+- Criado em 1996
 
 - É possível colocar emojis na propriedade list-style-type do ul, (exemplo "\1F44D" é um joinha)
   - Também é possível usar imagens com a propriedade list-style-image
